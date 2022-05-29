@@ -1,6 +1,6 @@
 # Analysis Overview
 
-This repository uses JavaScript to read a json data source to graph and display the information on an HTML page.
+This repository uses JavaScript to read a json data source, and then graph that data. We then display the graphs, Test Subject ID, and Demographic Information on an HTML page.
 
 Files included:
   - charts.js
